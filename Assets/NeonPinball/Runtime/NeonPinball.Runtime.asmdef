@@ -1,0 +1,10 @@
+{
+  "name": "NeonPinball.Runtime",
+  "rootNamespace": "NeonPinball",
+  "references": ["Unity.InputSystem", "Unity.TextMeshPro", "Unity.RenderPipelines.Universal.Runtime"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "autoReferenced": true
+}

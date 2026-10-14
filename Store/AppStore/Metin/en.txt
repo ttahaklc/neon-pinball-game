@@ -1,0 +1,36 @@
+[English (U.S.)]
+
+NAME (12/30)
+Neon Pinball
+
+SUBTITLE (26/30)
+Classic pinball, newly lit
+
+PROMOTIONAL TEXT (129/170)
+100 levels, 10 worlds and an endless mode. Build combos, raise the multiplier, earn 3 gems on every level. No ads, plays offline.
+
+KEYWORDS (98/100)
+pinball,flipper,arcade,neon,retro,offline,reflex,combo,highscore,classic,table,ball,levels,endless
+
+DESCRIPTION
+Neon Pinball brings the feel of the arcade hall back on a table that glows. Launch the ball, keep it alive with the flippers, and hit every bumper and target.
+
+HOW TO PLAY
+• Tap the left or right half of the screen to work the flippers.
+• Drag or tap the plunger on the right to launch the ball.
+• Hit different targets within 3 seconds to build a combo. The higher the combo level, the more each hit is worth.
+• Every two completed sets raise your multiplier from 1X up to 4X.
+
+FEATURES
+• 100 handcrafted levels across 10 worlds
+• 3 gems on every level: finish it, reach the score goal, complete the bonus objective
+• Endless mode with Classic and Modern table styles and separate records
+• Smooth, realistic physics and precise controls
+• Glowing neon visuals with haptic and sound feedback
+• 7 languages: English, Turkish, Spanish, French, Chinese, Hindi, Arabic
+• No ads, no account, no internet needed
+
+Beat your record. Collect every gem.
+
+WHAT'S NEW
+First release: 100 levels, endless mode and 7 languages.

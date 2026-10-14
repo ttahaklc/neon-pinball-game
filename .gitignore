@@ -1,0 +1,32 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+/[Ss]hots/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+.vs/
+.vscode/
+.idea/
+.DS_Store
+*.apk
+*.aab
+*.unitypackage
+*.log
+sysinfo.txt
+# İmza anahtarı repoya girmez; ayrıca verilir
+*.keystore
+*.jks
+keystore_bilgi.txt

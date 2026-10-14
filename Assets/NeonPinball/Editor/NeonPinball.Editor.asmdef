@@ -1,0 +1,8 @@
+{
+  "name": "NeonPinball.Editor",
+  "rootNamespace": "NeonPinball.EditorTools",
+  "references": ["NeonPinball.Runtime"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "autoReferenced": true
+}

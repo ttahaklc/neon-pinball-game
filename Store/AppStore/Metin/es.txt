@@ -1,0 +1,36 @@
+[Spanish]
+
+NAME (12/30)
+Neon Pinball
+
+SUBTITLE (29/30)
+Pinball clásico con luz nueva
+
+PROMOTIONAL TEXT (132/170)
+100 niveles, 10 mundos y modo sin fin. Encadena combos, sube el multiplicador y gana 3 gemas por nivel. Sin anuncios y sin conexión.
+
+KEYWORDS (94/100)
+pinball,flipper,arcade,neón,retro,sin conexión,reflejos,combo,récord,clásico,mesa,bola,niveles
+
+DESCRIPTION
+Neon Pinball recupera la sensación de los salones recreativos en una mesa llena de luz. Lanza la bola, mantenla en juego con los flippers y golpea cada bumper y objetivo.
+
+CÓMO SE JUEGA
+• Toca la mitad izquierda o derecha de la pantalla para accionar los flippers.
+• Arrastra o toca el émbolo de la derecha para lanzar la bola.
+• Golpea objetivos distintos en menos de 3 segundos para crear un combo. Cuanto mayor es el nivel del combo, más vale cada golpe.
+• Cada dos series completadas, tu multiplicador sube de 1X hasta 4X.
+
+CARACTERÍSTICAS
+• 100 niveles diseñados a mano en 10 mundos
+• 3 gemas por nivel: terminarlo, alcanzar la meta de puntos y cumplir el objetivo extra
+• Modo sin fin con mesas Clásica y Moderna y récords separados
+• Física fluida y realista, control preciso
+• Visuales de neón con vibración y sonido
+• 7 idiomas: español, inglés, turco, francés, chino, hindi y árabe
+• Sin anuncios, sin cuenta y sin necesidad de internet
+
+Supera tu récord y reúne todas las gemas.
+
+WHAT'S NEW
+Primera versión: 100 niveles, modo sin fin y 7 idiomas.

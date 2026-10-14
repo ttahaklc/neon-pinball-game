@@ -1,0 +1,30 @@
+[tr-TR]
+
+TITLE (12/30)
+Neon Pinball
+
+SHORT DESCRIPTION (67/80)
+100 bölüm, 10 dünya, sınırsız mod. Kombo yap, rekor kır. Reklamsız.
+
+FULL DESCRIPTION
+Neon Pinball, klasik atari salonu hissini ışıl ışıl bir masada yeniden yaşatır. Topu fırlat, flipperlerle havada tut, bumper'lara ve hedeflere vur.
+
+NASIL OYNANIR
+• Sol ve sağ yarıya dokunarak flipperleri çalıştır.
+• Topu fırlatmak için sağdaki yayı sürükle ya da dokun.
+• Farklı hedefleri 3 saniye içinde art arda vurarak kombo yap. Kombo seviyesi arttıkça puanın katlanır.
+• Tamamlanan setler çarpanı 1X'ten 4X'e kadar yükseltir.
+
+ÖZELLİKLER
+• 10 farklı dünyada 100 el yapımı bölüm
+• Her bölümde kazanılacak 3 elmas: bölümü bitir, puan hedefine ulaş, bonus görevi tamamla
+• Sınırsız mod: Klasik ve Modern masa stilleriyle ayrı rekorlar
+• Akıcı, gerçekçi fizik ve hassas kontrol
+• Işıltılı neon görseller, titreşim ve ses geri bildirimi
+• 7 dil: Türkçe, İngilizce, İspanyolca, Fransızca, Çince, Hintçe, Arapça
+• Reklam yok, hesap yok, internet gerekmez
+
+Rekorunu kır, tüm elmasları topla.
+
+RELEASE NOTES (What's new)
+İlk sürüm: 100 bölüm, sınırsız mod ve 7 dil desteği.

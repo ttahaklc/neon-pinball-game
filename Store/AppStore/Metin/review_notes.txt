@@ -1,0 +1,1 @@
+Neon Pinball is an offline pinball game. No account, no login, no in-app purchases, no ads, no network use. Tap Play to start; tap or drag the plunger on the right to launch the ball. A How to Play guide is in Settings.
